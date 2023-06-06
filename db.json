@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "diego"
+    },
+    {
+      "id": 2,
+      "name": "jose"
+    },
+    {
+      "name": "Pedro",
+      "id": 3
+    },
+    {
+      "name": "Pedro",
+      "id": 4
+    },
+    {
+      "name": "Pedro",
+      "id": 5
+    },
+    {
+      "name": "Pedro",
+      "id": 6
+    },
+    {
+      "name": "Pedro",
+      "id": 7
+    },
+    {
+      "name": "Pedro",
+      "id": 8
+    }
+  ]
+}
